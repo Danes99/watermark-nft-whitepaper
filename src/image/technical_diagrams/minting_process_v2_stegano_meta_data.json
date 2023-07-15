@@ -1,0 +1,10 @@
+{
+  "ownership_meta_data": {
+    "owner": "0x03e75d7dd38cce2e20ffee35ec914c57780a8e29",
+    "owner_counter": 1,
+    "blockchain_network": 1,
+    "tx_hash": "0x2f07c7386ddb266651a612d24523004e42211e207a9842d9202e5df2d676dd75",
+    "parent_file_hash": "0x796898f452a0ac0a512b967acba7bb7a39d505c048f6eaa1dae8293102fc1e3d"
+  },
+  "signature": "30440220447e66f03e594567ac9b..."
+}

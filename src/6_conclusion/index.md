@@ -1,0 +1,11 @@
+# Conclusion
+
+To conclude this white paper. This new NFT norm compensates for the existing flaws inside the NFT ecosystem. Existing NFT are considered secured because the certificate of ownership (smart contract) is stored in the Blockchain, but it omits the fact the NFT file is stored off-chain, which introduces multiple points of failure and possible breach of trust. Even if the off-chain storage is IPFS.
+
+It introduces the concept of handwriting/brushstroke of the artist (even for simple content) and is intrinsically embedded in the file content. To paraphrase, the file contains the DNA of the creator inside its content. The content is secured using verified cryptography technologies inside the Blockchain ecosystem, involving security, authenticity, and flexibility. The use of cryptography algorithms to perform the process is customizable. It is recommended to use the same cryptography algorithm used in the target Blockchain for the process, so that there is some form of uniformization, but it is not compulsory.
+
+The steganography algorithm is flexible, but it is recommended to use one that “hides well” the data inside the file, so that the original content is not undermined/deteriorated. Steganography algorithms used by Intelligence agencies are quite popular for watermarking.
+
+The process of auditing the authenticity of the NFT is quick, simple, and transparent. A positive audit result confirms the intrinsic relation between the NFT file, the smart contract and the NFT creator’s private key.
+
+This new NFT norm is an upgrade from existing NFT norms and processes. It was designed from the ground up to use the same technologies and cryptography process found in the Blockchain and NFT ecosystem. Moreover, the design was intended to integrate seamlessly with existing Blockchains, NFT marketplaces and Web3 technologies. This norm should not be considered a definitive solution but as a continuation of upgrades brought to the Blockchain ecosystem. It should and will evolve over time to add more security and authenticity to the NFT ecosystem. Just like the Blockchain technologies are not carved in stone, technologies and tools need to evolve over time to adapt to new computing capabilities and market demands.
